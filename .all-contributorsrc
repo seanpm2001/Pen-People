@@ -200,6 +200,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Pen-People",
+      "name": "Pen People development",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103299105?v=4",
+      "profile": "https://github.com/Pen-People",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
